@@ -1,3 +1,7 @@
 Week 1
 
 I asked ChatGPT how to sort data
+
+Week 2
+
+I asked Claude about some ML questions. 
