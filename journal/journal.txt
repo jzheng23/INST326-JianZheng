@@ -4,6 +4,6 @@ I asked ChatGPT how to sort data
 
 Week 2
 
-I asked Claude about some ML questions. 
+I asked ChatGPT about data viz
 
-One more line for GitHub desktop testing.
+More details....
